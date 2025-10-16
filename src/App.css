@@ -1,0 +1,14 @@
+.question{
+  font-size:x-large;
+}
+
+.answer{
+  display: none;
+}
+
+li{
+  border: 5px solid;
+  width: auto;
+  list-style: none;
+}
+

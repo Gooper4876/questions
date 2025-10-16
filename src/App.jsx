@@ -20,6 +20,7 @@ function App() {
         <ul className='list'>
           {questions.map(
             (questions)=>(
+              
               <>
               <Card question={questions.question} answer={questions.answer} id={questions.id}/>
               </>
